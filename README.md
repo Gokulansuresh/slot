@@ -35,130 +35,134 @@ Execute the program using runserver command.
     </head>
     <body>
         <center>
-            <img src="logo.png"width="1100" height="200">
-                <h1>My daily schedule -- Gokulan.S.S(26018286)</h1>
+            <img src="logo.png"width="1300" height="400">
+                <h1>My daily Cycle -- Gokulan.S.S(26018286)</h1>
 
         </center>
         <table border="4"
         cellspacing="3"
         cellpadding="13"
         align="center">
-        <thead bgcolor="red">
+          
             <tr>
-                <th>DAY/TIME</th>
-                <th>MONDAY</th>
-                <th>TUESDAY</th>
-                <th>WEDNESDAY</th>
-                <th>THURSDAY</th>
-                <th>FRIDAY</th>
-                <th>SATURDAY</th>
+                <th bgcolor="lightblue">DAY/TIME</th>
+                <th bgcolor="lightblue">MONDAY</th>
+                <th bgcolor="lightblue">TUESDAY</th>
+                <th bgcolor="lightblue">WEDNESDAY</th>
+                <th bgcolor="lightblue">THURSDAY</th>
+                <th bgcolor="lightblue">FRIDAY</th>
+                <th bgcolor="lightblue">SATURDAY</th>
             </tr>
-        </thead>
-        <tbody bgcolor="sky blue">
+           
+        
             <tr>
                 <td bgcolor="lightgreen">8.00 -- 9.30</td>
-                <td>FREE HOUR</td>
-                <td>MATH-AI </td>
-                <td>MATH-AI</td>
-                <td>FREE HOUR</td>
-                <td>MATH-AI</td>
-                <td>FREE</td>
+                <td bgcolor="violet">FREE HOUR</td>
+                <td bgcolor="violet">MATH-AI </td>
+                <td bgcolor="violet">MATH-AI</td>
+                <td bgcolor="violet">FREE HOUR</td>
+                <td bgcolor="violet">MATH-AI</td>
+                <td bgcolor="violet">FREE</td>
             </tr>
             <tr>
                   <td bgcolor="lightgreen">9.45 -- 11.15</td>
-                  <td>EDM</td>  
-                  <td>FWAD</td>
-                  <td>FREE</td>
-                  <td>EDM</td>
-                  <td>FWAD</td>
-                  <td>FREE</td>
+                  <td bgcolor="violet">EDM</td>  
+                  <td bgcolor="violet">FWAD</td>
+                  <td bgcolor="violet">FREE</td>
+                  <td bgcolor="violet">EDM</td>
+                  <td bgcolor="violet">FWAD</td>
+                  <td bgcolor="violet">FREE</td>
             </tr>
             <tr> 
                   <td bgcolor="lightgreen">11.30 -- 12.15</td>
-                  <td>mentor class</td>
-                  <td>mentor class</td>
-                  <td>mentor class</td>
-                  <td>mentor class</td>
-                  <td>mentor class</td>
-                  <td>FREE</td>
+                  <td bgcolor="violet">mentor class</td>
+                  <td bgcolor="violet">mentor class</td>
+                  <td bgcolor="violet">mentor class</td>
+                  <td bgcolor="violet">mentor class</td>
+                  <td bgcolor="violet">mentor class</td>
+                  <td bgcolor="violet">FREE</td>
 
             </tr>
             <tr>
                 <td bgcolor="lightgreen">12.15 -- 1.15</td>
-                <td>lunch break</td>
-                <td>lunch break</td>
-                <td>lunch break</td>
-                <td>lunch break</td>
-                <td>lunch break</td>
-                <td>FREE</td>
+                <td bgcolor="violet">lunch break</td>
+                <td bgcolor="violet">lunch break</td>
+                <td bgcolor="violet">lunch break</td>
+                <td bgcolor="violet">lunch break</td>
+                <td bgcolor="violet">lunch break</td>
+                <td bgcolor="violet">FREE</td>
              </tr>
              <tr>
                 <td bgcolor="lightgreen">1.15 -- 2.45</td>
-                <td>FWAD</td>
-                <td>FREE</td>
-                <td>FREE</td>
-                <td>CE</td>
-                <td>FREE</td>
-                <td>FREE</td>
+                <td bgcolor="violet">FWAD</td>
+                <td bgcolor="violet">FREE</td>
+                <td bgcolor="violet">FREE</td>
+                <td bgcolor="violet">CE</td>
+                <td bgcolor="violet">FREE</td>
+                <td bgcolor="violet">FREE</td>
 
              </tr>
              <tr>
                 <td bgcolor="lightgreen">3.00 -- 4.30</td>
-                <td>DE</td>
-                <td>CE</td>
-                <td>CA</td>
-                <td>DE</td>
-                <td>CA</td>
-                <td>FREE</td>
+                <td bgcolor="violet">DE</td>
+                <td bgcolor="violet">CE</td>
+                <td bgcolor="violet">CA</td>
+                <td bgcolor="violet">DE</td>
+                <td bgcolor="violet">CA</td>
+                <td bgcolor="violet">FREE</td>
              </tr>
         
-        </tbody>
+        
         </table>
         <br>
         <table border="5"
         cellspacing="4"
         cellpadding="12"
         align="center">
-          <thead bgcolor="light green">
+          
             <tr>
-                <th>S.NO.</th>
-                <th>SUBJECT CODE</th>
-                <th>SUBJECT NAME</th>
+                <th bgcolor="green">S.NO</th>
+                <th bgcolor="green">SUBJECT CODE</th>
+                <th bgcolor="green">SUBJECT NAME</th>
             </tr>
-          </thead>
-          <tbody bgcolor="grey">
+          
+         
             <tr>
-                <td>1</td>
-                <td>19AI414</td>
-                <td>Fundamental of web application(FWAD)</td>
-            </tr>
-            <tr>
-                  <td>2</td>
-                  <td>19AI220</td>
-                  <td>Mathematics for Artificial intelligence(MATH-AI)</td> 
+                <td bgcolor="orange">1</td>
+                <td bgcolor="orange">19AI414</td>
+                <td bgcolor="orange">Fundamental of web application(FWAD)</td>
             </tr>
             <tr>
-                 <td>3</td>
-                 <td>19EE404</td>
-                 <td>Digital Electronic(DE)</td>
+                  <td bgcolor="orange">2</td>
+                  <td bgcolor="orange">19AI220</td>
+                  <td bgcolor="orange">Mathematics for Artificial intelligence(MATH-AI)</td> 
+            </tr>
+            <tr>
+                 <td bgcolor="orange">3</td>
+                 <td bgcolor="orange">19EE404</td>
+                 <td bgcolor="orange">Digital Electronic(DE)</td>
 
             </tr>
             <tr>
-                  <td>4</td>
-                  <td>26ODJ131</td>
-                  <td>Communicative English(CE)</td> 
+                  <td bgcolor="orange">4</td>
+                  <td bgcolor="orange">26ODJ131</td>
+                  <td bgcolor="orange">Communicative English(CE)</td> 
             </tr>
             <tr>
-                 <td>5</td>
-                 <td>19CS305</td>
-                 <td>Computer Architecture(CA)</td>  
+                 <td bgcolor="orange">5</td>
+                 <td bgcolor="orange">19CS305</td>
+                 <td bgcolor="orange">Computer Architecture(CA)</td>  
             </tr>
             <tr>
-                 <td>6</td>
-                 <td>19AI414</td>
-                 <td>Engineering Design and Modelling(EDM)</td>  
+                 <td bgcolor="orange">6</td>
+                 <td bgcolor="orange">19AI414</td>
+                 <td bgcolor="orange">Engineering Design and Modelling(EDM)</td>  
             </tr>
-          </tbody>
+          <tr>
+            <td bgcolor="orange"> 7</td>
+            <td bgcolor="orange"> none</td>
+            <td bgcolor="orange"> MENTOR MEETING</td>
+          </tr>
     </table>
     </body>
 </html>
@@ -166,7 +170,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 webpage
-![alt text](image-1.png)
+![alt text](image-3.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
